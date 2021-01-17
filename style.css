@@ -15,10 +15,6 @@ body{
 .delivery_description p{
    font-weight: 700;
 }
-.delivery_main div{
-    /* background-color: rgb(238, 255, 0); */
-   
-}
 .delivery_main span{
     line-height: 150px;
 }
