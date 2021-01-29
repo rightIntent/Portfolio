@@ -15,9 +15,6 @@ body{
 .delivery_description p{
    font-weight: 700;
 }
-.delivery_main span{
-    line-height: 150px;
-}
 .delivery-project-img img{
     width: 80%;
     height: 20%;
